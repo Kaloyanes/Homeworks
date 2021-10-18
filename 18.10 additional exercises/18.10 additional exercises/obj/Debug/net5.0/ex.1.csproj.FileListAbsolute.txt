@@ -1,0 +1,16 @@
+D:\Programming\Homeworks\18.10 additional exercises\18.10 additional exercises\bin\Debug\net5.0\ex.1.exe
+D:\Programming\Homeworks\18.10 additional exercises\18.10 additional exercises\bin\Debug\net5.0\ex.1.deps.json
+D:\Programming\Homeworks\18.10 additional exercises\18.10 additional exercises\bin\Debug\net5.0\ex.1.runtimeconfig.json
+D:\Programming\Homeworks\18.10 additional exercises\18.10 additional exercises\bin\Debug\net5.0\ex.1.runtimeconfig.dev.json
+D:\Programming\Homeworks\18.10 additional exercises\18.10 additional exercises\bin\Debug\net5.0\ex.1.dll
+D:\Programming\Homeworks\18.10 additional exercises\18.10 additional exercises\bin\Debug\net5.0\ref\ex.1.dll
+D:\Programming\Homeworks\18.10 additional exercises\18.10 additional exercises\bin\Debug\net5.0\ex.1.pdb
+D:\Programming\Homeworks\18.10 additional exercises\18.10 additional exercises\obj\Debug\net5.0\ex.1.csproj.AssemblyReference.cache
+D:\Programming\Homeworks\18.10 additional exercises\18.10 additional exercises\obj\Debug\net5.0\ex.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Homeworks\18.10 additional exercises\18.10 additional exercises\obj\Debug\net5.0\ex.1.AssemblyInfoInputs.cache
+D:\Programming\Homeworks\18.10 additional exercises\18.10 additional exercises\obj\Debug\net5.0\ex.1.AssemblyInfo.cs
+D:\Programming\Homeworks\18.10 additional exercises\18.10 additional exercises\obj\Debug\net5.0\ex.1.csproj.CoreCompileInputs.cache
+D:\Programming\Homeworks\18.10 additional exercises\18.10 additional exercises\obj\Debug\net5.0\ex.1.dll
+D:\Programming\Homeworks\18.10 additional exercises\18.10 additional exercises\obj\Debug\net5.0\ref\ex.1.dll
+D:\Programming\Homeworks\18.10 additional exercises\18.10 additional exercises\obj\Debug\net5.0\ex.1.pdb
+D:\Programming\Homeworks\18.10 additional exercises\18.10 additional exercises\obj\Debug\net5.0\ex.1.genruntimeconfig.cache
