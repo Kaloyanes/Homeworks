@@ -7,6 +7,7 @@ namespace ex._2
     internal class Program
     {
         public static int currentPosition;
+        public static int icarusDamage = 1;
         static void Main(string[] args)
         {
             // Getting inital states of Icarus
@@ -44,16 +45,18 @@ namespace ex._2
                 // Going into a recursion
                 if (direction == "left")
                 {
-                    moveLeft(currentPosition, initialState, times);
+                    moveLeft(currentPosition - 1, initialState, times);
                 }
                 else
-                    moveRight(currentPosition, initialState, times);
+                    moveRight(currentPosition + 1, initialState, times);
 
 
             }
 
             foreach (var i in initialState)
                 Console.Write($"{i} ");
+
+            Console.WriteLine();
         }
 
         public static void moveLeft(int position,int[] states, int times)
@@ -61,12 +64,12 @@ namespace ex._2
             if (position < 0)
             {
                 position = states.Length - 1;
-                states[position] -= 1;
+                icarusDamage += 1;
             }
-            states[position] -= 1;
+            states[position] -= icarusDamage;
             currentPosition = position;
 
-            if (times < 0)
+            if (times == 1)
                 return;
 
             moveLeft(position - 1,states, times - 1);
@@ -77,12 +80,12 @@ namespace ex._2
             if (position >= states.Length)
             {
                 position = 0;
-                states[position] -= 1;
+                icarusDamage += 1;
             }
-            states[position] -= 1;
+            states[position] -= icarusDamage;
             currentPosition = position;
 
-            if (times < 0)
+            if (times == 1)
                 return;
 
             moveRight(position + 1, states, times - 1);
