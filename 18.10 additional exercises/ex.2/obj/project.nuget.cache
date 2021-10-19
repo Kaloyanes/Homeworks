@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CpXCRQPtENpzxMNKhHA0vulxarR/l/YVFbwKl1r5ndWa1vm5GPwEC3rnNU7oJ3FacDxkAyYD9hWksJ9dmNvSCA==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\Homeworks\\18.10 additional exercises\\ex.2\\ex.2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaloy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
