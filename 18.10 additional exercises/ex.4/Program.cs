@@ -11,25 +11,9 @@ namespace ex._4
     {
         static void Main(string[] args)
         {
-            /*
-                FireBird -> FireMane
-                Phoenix -> FireVoid
-                FireVoid -> FireMane
-                FireSnow -> FireMane
-                Phoenix -> FireBird
-                FireMane -> FireBird
-                FireMane -> FireVoid
-                Phoenix -> FireSnow
-                FireMane -> FireSnow
-                FireMane -> FireMane
-                Phoenix -> FireMane
-                Phoenix -> FireVoid
-                Blaze it!
-
-             */
-
             Dictionary<string, List<string>> squads = new Dictionary<string, List<string>>();
             Dictionary<string, int> squadMates = new Dictionary<string, int>();
+
             while (true)
             {
                 string[] input = Console.ReadLine().Trim().Split(" -> ").ToArray();
@@ -42,23 +26,28 @@ namespace ex._4
                 if (creature == squadmate)
                     continue;
 
-                else if (squads.ContainsKey(creature) && squads[creature].Contains(squadmate) &&
-                         squads.ContainsKey(squadmate) && squads[squadmate].Contains(creature))
-                {
-                    squadMates[squadmate] -= 1;
-                    squadMates[creature] -= 1;
-                }
-
-                else if (squads.ContainsKey(creature) && !squads[creature].Contains(creature))
-                    squadMates[creature]++;
-
-                else if (squads.ContainsKey(creature))
+                if (squads.ContainsKey(creature))
                 {
                     squads[creature].Add(squadmate);
                     squadMates[creature]++;
                 }
 
-                else
+                if (squads.ContainsKey(creature) && squads.ContainsKey(squadmate) && squads[creature].Contains(squadmate) && squads[squadmate].Contains(creature))
+                {
+                    if (squadMates[creature] == 0)
+                        squadMates[squadmate]--;
+                    
+                    else if (squadMates[squadmate] == 0)
+                        squadMates[creature]--;
+
+                    else
+                    {
+                        squadMates[creature]--;
+                        squadMates[squadmate]--;
+                    }
+                }
+
+                else if(!squads.ContainsKey(creature))
                 {
                     squads.Add(creature, new List<string>(){squadmate});
                     squadMates.Add(creature, 0);
