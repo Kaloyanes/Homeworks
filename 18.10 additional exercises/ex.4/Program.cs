@@ -27,9 +27,9 @@ namespace ex._4
                 Blaze it!
 
              */
-            
+
             Dictionary<string, List<string>> squads = new Dictionary<string, List<string>>();
-            Dictionary<string, int> squadmates = new Dictionary<string, int>();
+            Dictionary<string, int> squadMates = new Dictionary<string, int>();
             while (true)
             {
                 string[] input = Console.ReadLine().Trim().Split(" -> ").ToArray();
@@ -43,27 +43,30 @@ namespace ex._4
                     continue;
 
                 else if (squads.ContainsKey(creature) && squads[creature].Contains(squadmate) &&
-                         squads.ContainsKey(squadmate) && squads[squadmate].Contains(creature) && squadmates[creature] != 0)
-                    squadmates[creature] -= 1;
+                         squads.ContainsKey(squadmate) && squads[squadmate].Contains(creature))
+                {
+                    squadMates[squadmate] -= 1;
+                    squadMates[creature] -= 1;
+                }
 
                 else if (squads.ContainsKey(creature) && !squads[creature].Contains(creature))
-                    squadmates[creature]++;
+                    squadMates[creature]++;
 
                 else if (squads.ContainsKey(creature))
                 {
                     squads[creature].Add(squadmate);
-                    squadmates[creature]++;
+                    squadMates[creature]++;
                 }
 
                 else
                 {
-                    squads.Add(creature, new List<string>());
-                    squadmates.Add(creature, 0);
+                    squads.Add(creature, new List<string>(){squadmate});
+                    squadMates.Add(creature, 0);
                 }
             }
 
             Console.WriteLine();
-            foreach (var squadmate in squadmates.OrderByDescending(n => n.Value))
+            foreach (var squadmate in squadMates.OrderByDescending(n => n.Value))
             {
                 Console.WriteLine($"{squadmate.Key}: {squadmate.Value}");
             }
