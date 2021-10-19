@@ -11,6 +11,7 @@ namespace ex._4
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             /*
                 FireBird -> FireMane
                 Phoenix -> FireVoid
@@ -28,6 +29,8 @@ namespace ex._4
 
              */
 
+=======
+>>>>>>> developing
             Dictionary<string, List<string>> squads = new Dictionary<string, List<string>>();
             Dictionary<string, int> squadmates = new Dictionary<string, int>();
             while (true)
