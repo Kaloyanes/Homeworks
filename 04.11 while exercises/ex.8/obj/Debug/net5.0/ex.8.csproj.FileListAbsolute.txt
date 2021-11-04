@@ -1,0 +1,15 @@
+D:\Programming\Homeworks\04.11 while exercises\ex.8\bin\Debug\net5.0\ex.8.exe
+D:\Programming\Homeworks\04.11 while exercises\ex.8\bin\Debug\net5.0\ex.8.deps.json
+D:\Programming\Homeworks\04.11 while exercises\ex.8\bin\Debug\net5.0\ex.8.runtimeconfig.json
+D:\Programming\Homeworks\04.11 while exercises\ex.8\bin\Debug\net5.0\ex.8.runtimeconfig.dev.json
+D:\Programming\Homeworks\04.11 while exercises\ex.8\bin\Debug\net5.0\ex.8.dll
+D:\Programming\Homeworks\04.11 while exercises\ex.8\bin\Debug\net5.0\ref\ex.8.dll
+D:\Programming\Homeworks\04.11 while exercises\ex.8\bin\Debug\net5.0\ex.8.pdb
+D:\Programming\Homeworks\04.11 while exercises\ex.8\obj\Debug\net5.0\ex.8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Homeworks\04.11 while exercises\ex.8\obj\Debug\net5.0\ex.8.AssemblyInfoInputs.cache
+D:\Programming\Homeworks\04.11 while exercises\ex.8\obj\Debug\net5.0\ex.8.AssemblyInfo.cs
+D:\Programming\Homeworks\04.11 while exercises\ex.8\obj\Debug\net5.0\ex.8.csproj.CoreCompileInputs.cache
+D:\Programming\Homeworks\04.11 while exercises\ex.8\obj\Debug\net5.0\ex.8.dll
+D:\Programming\Homeworks\04.11 while exercises\ex.8\obj\Debug\net5.0\ref\ex.8.dll
+D:\Programming\Homeworks\04.11 while exercises\ex.8\obj\Debug\net5.0\ex.8.pdb
+D:\Programming\Homeworks\04.11 while exercises\ex.8\obj\Debug\net5.0\ex.8.genruntimeconfig.cache

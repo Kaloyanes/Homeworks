@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kaloy\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kaloy\\.nuget\\packages",
+      "D:\\Visual Studio packages\\NuGetPackages"
+    ]
+  }
+}
