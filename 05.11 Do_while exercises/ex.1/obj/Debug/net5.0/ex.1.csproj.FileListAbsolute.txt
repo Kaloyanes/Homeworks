@@ -1,0 +1,16 @@
+C:\Users\kaloy\Desktop\projects\Homeworks\05.11 Do_while exercises\ex.1\bin\Debug\net5.0\ex.1.exe
+C:\Users\kaloy\Desktop\projects\Homeworks\05.11 Do_while exercises\ex.1\bin\Debug\net5.0\ex.1.deps.json
+C:\Users\kaloy\Desktop\projects\Homeworks\05.11 Do_while exercises\ex.1\bin\Debug\net5.0\ex.1.runtimeconfig.json
+C:\Users\kaloy\Desktop\projects\Homeworks\05.11 Do_while exercises\ex.1\bin\Debug\net5.0\ex.1.runtimeconfig.dev.json
+C:\Users\kaloy\Desktop\projects\Homeworks\05.11 Do_while exercises\ex.1\bin\Debug\net5.0\ex.1.dll
+C:\Users\kaloy\Desktop\projects\Homeworks\05.11 Do_while exercises\ex.1\bin\Debug\net5.0\ref\ex.1.dll
+C:\Users\kaloy\Desktop\projects\Homeworks\05.11 Do_while exercises\ex.1\bin\Debug\net5.0\ex.1.pdb
+C:\Users\kaloy\Desktop\projects\Homeworks\05.11 Do_while exercises\ex.1\obj\Debug\net5.0\ex.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaloy\Desktop\projects\Homeworks\05.11 Do_while exercises\ex.1\obj\Debug\net5.0\ex.1.AssemblyInfoInputs.cache
+C:\Users\kaloy\Desktop\projects\Homeworks\05.11 Do_while exercises\ex.1\obj\Debug\net5.0\ex.1.AssemblyInfo.cs
+C:\Users\kaloy\Desktop\projects\Homeworks\05.11 Do_while exercises\ex.1\obj\Debug\net5.0\ex.1.csproj.CoreCompileInputs.cache
+C:\Users\kaloy\Desktop\projects\Homeworks\05.11 Do_while exercises\ex.1\obj\Debug\net5.0\ex.1.dll
+C:\Users\kaloy\Desktop\projects\Homeworks\05.11 Do_while exercises\ex.1\obj\Debug\net5.0\ref\ex.1.dll
+C:\Users\kaloy\Desktop\projects\Homeworks\05.11 Do_while exercises\ex.1\obj\Debug\net5.0\ex.1.pdb
+C:\Users\kaloy\Desktop\projects\Homeworks\05.11 Do_while exercises\ex.1\obj\Debug\net5.0\ex.1.genruntimeconfig.cache
+C:\Users\kaloy\Desktop\projects\Homeworks\05.11 Do_while exercises\ex.1\obj\Debug\net5.0\ex.1.csproj.AssemblyReference.cache

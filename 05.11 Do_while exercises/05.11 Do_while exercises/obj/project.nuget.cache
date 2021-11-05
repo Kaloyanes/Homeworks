@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7E+axN4+uCkghZro+vWCatHHS1rCcK1RQqnuK2QhsPX+mDiNUAosdduW0a+60uFMxhVLpQQyY2seJjUW4Rg3Wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaloy\\Desktop\\projects\\Homeworks\\05.11 Do_while exercises\\05.11 Do_while exercises\\05.11 Do_while exercises.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaloy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
