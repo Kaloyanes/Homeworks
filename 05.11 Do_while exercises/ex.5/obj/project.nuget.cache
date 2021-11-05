@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FHbotRPCu2y6+kEBOyiMTWD9DZU1NjYpfKg1dgGXY93cxq/DUo/CYlCvpk0Qjv1YKlLmjCGf6FiftTlGqD0reg==",
+  "dgSpecHash": "aM8vVCcCoOuaEejAg9kCO+aYqvNSxX4D3wc+c4W7YBndL7y9xKUWhkpMyjbLvz95L6ATojIEyjSi6Fe+YD3eWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kaloy\\Desktop\\projects\\Homeworks\\05.11 Do_while exercises\\ex.5\\ex.5.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kaloy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Programming\\Homeworks\\05.11 Do_while exercises\\ex.5\\ex.5.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
