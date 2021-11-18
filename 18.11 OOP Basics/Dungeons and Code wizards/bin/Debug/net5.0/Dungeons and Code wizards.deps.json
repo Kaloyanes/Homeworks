@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Dungeons and Code wizards/1.0.0": {
+        "runtime": {
+          "Dungeons and Code wizards.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dungeons and Code wizards/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

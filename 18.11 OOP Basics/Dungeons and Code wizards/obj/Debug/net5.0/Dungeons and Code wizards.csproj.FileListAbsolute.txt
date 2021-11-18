@@ -1,0 +1,16 @@
+D:\Programming\Homeworks\18.11 OOP Basics\Dungeons and Code wizards\bin\Debug\net5.0\Dungeons and Code wizards.exe
+D:\Programming\Homeworks\18.11 OOP Basics\Dungeons and Code wizards\bin\Debug\net5.0\Dungeons and Code wizards.deps.json
+D:\Programming\Homeworks\18.11 OOP Basics\Dungeons and Code wizards\bin\Debug\net5.0\Dungeons and Code wizards.runtimeconfig.json
+D:\Programming\Homeworks\18.11 OOP Basics\Dungeons and Code wizards\bin\Debug\net5.0\Dungeons and Code wizards.runtimeconfig.dev.json
+D:\Programming\Homeworks\18.11 OOP Basics\Dungeons and Code wizards\bin\Debug\net5.0\Dungeons and Code wizards.dll
+D:\Programming\Homeworks\18.11 OOP Basics\Dungeons and Code wizards\bin\Debug\net5.0\ref\Dungeons and Code wizards.dll
+D:\Programming\Homeworks\18.11 OOP Basics\Dungeons and Code wizards\bin\Debug\net5.0\Dungeons and Code wizards.pdb
+D:\Programming\Homeworks\18.11 OOP Basics\Dungeons and Code wizards\obj\Debug\net5.0\Dungeons and Code wizards.csproj.AssemblyReference.cache
+D:\Programming\Homeworks\18.11 OOP Basics\Dungeons and Code wizards\obj\Debug\net5.0\Dungeons and Code wizards.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Homeworks\18.11 OOP Basics\Dungeons and Code wizards\obj\Debug\net5.0\Dungeons and Code wizards.AssemblyInfoInputs.cache
+D:\Programming\Homeworks\18.11 OOP Basics\Dungeons and Code wizards\obj\Debug\net5.0\Dungeons and Code wizards.AssemblyInfo.cs
+D:\Programming\Homeworks\18.11 OOP Basics\Dungeons and Code wizards\obj\Debug\net5.0\Dungeons and Code wizards.csproj.CoreCompileInputs.cache
+D:\Programming\Homeworks\18.11 OOP Basics\Dungeons and Code wizards\obj\Debug\net5.0\Dungeons and Code wizards.dll
+D:\Programming\Homeworks\18.11 OOP Basics\Dungeons and Code wizards\obj\Debug\net5.0\ref\Dungeons and Code wizards.dll
+D:\Programming\Homeworks\18.11 OOP Basics\Dungeons and Code wizards\obj\Debug\net5.0\Dungeons and Code wizards.pdb
+D:\Programming\Homeworks\18.11 OOP Basics\Dungeons and Code wizards\obj\Debug\net5.0\Dungeons and Code wizards.genruntimeconfig.cache

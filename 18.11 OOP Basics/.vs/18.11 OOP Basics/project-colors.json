@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c41c4a69-0f57-4b41-99e8-e9a34acee340": {
+      "ProjectGuid": "c41c4a69-0f57-4b41-99e8-e9a34acee340",
+      "DisplayName": "18.11 OOP Basics",
+      "ColorIndex": 0
+    },
+    "205ed889-117b-4590-b5bb-73e0eca7927c": {
+      "ProjectGuid": "205ed889-117b-4590-b5bb-73e0eca7927c",
+      "DisplayName": "Dungeons and Code wizards",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
