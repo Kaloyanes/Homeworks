@@ -1,0 +1,16 @@
+D:\Programming\Homeworks\25.11 Methods\ex.2\bin\Debug\net5.0\ex.2.exe
+D:\Programming\Homeworks\25.11 Methods\ex.2\bin\Debug\net5.0\ex.2.deps.json
+D:\Programming\Homeworks\25.11 Methods\ex.2\bin\Debug\net5.0\ex.2.runtimeconfig.json
+D:\Programming\Homeworks\25.11 Methods\ex.2\bin\Debug\net5.0\ex.2.runtimeconfig.dev.json
+D:\Programming\Homeworks\25.11 Methods\ex.2\bin\Debug\net5.0\ex.2.dll
+D:\Programming\Homeworks\25.11 Methods\ex.2\bin\Debug\net5.0\ref\ex.2.dll
+D:\Programming\Homeworks\25.11 Methods\ex.2\bin\Debug\net5.0\ex.2.pdb
+D:\Programming\Homeworks\25.11 Methods\ex.2\obj\Debug\net5.0\ex.2.csproj.AssemblyReference.cache
+D:\Programming\Homeworks\25.11 Methods\ex.2\obj\Debug\net5.0\ex.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Homeworks\25.11 Methods\ex.2\obj\Debug\net5.0\ex.2.AssemblyInfoInputs.cache
+D:\Programming\Homeworks\25.11 Methods\ex.2\obj\Debug\net5.0\ex.2.AssemblyInfo.cs
+D:\Programming\Homeworks\25.11 Methods\ex.2\obj\Debug\net5.0\ex.2.csproj.CoreCompileInputs.cache
+D:\Programming\Homeworks\25.11 Methods\ex.2\obj\Debug\net5.0\ex.2.dll
+D:\Programming\Homeworks\25.11 Methods\ex.2\obj\Debug\net5.0\ref\ex.2.dll
+D:\Programming\Homeworks\25.11 Methods\ex.2\obj\Debug\net5.0\ex.2.pdb
+D:\Programming\Homeworks\25.11 Methods\ex.2\obj\Debug\net5.0\ex.2.genruntimeconfig.cache
