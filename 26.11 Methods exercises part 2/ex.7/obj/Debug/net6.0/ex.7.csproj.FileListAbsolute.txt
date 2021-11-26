@@ -1,0 +1,15 @@
+D:\Programming\Homeworks\26.11 Methods exercises part 2\ex.7\bin\Debug\net6.0\ex.7.exe
+D:\Programming\Homeworks\26.11 Methods exercises part 2\ex.7\bin\Debug\net6.0\ex.7.deps.json
+D:\Programming\Homeworks\26.11 Methods exercises part 2\ex.7\bin\Debug\net6.0\ex.7.runtimeconfig.json
+D:\Programming\Homeworks\26.11 Methods exercises part 2\ex.7\bin\Debug\net6.0\ex.7.dll
+D:\Programming\Homeworks\26.11 Methods exercises part 2\ex.7\bin\Debug\net6.0\ref\ex.7.dll
+D:\Programming\Homeworks\26.11 Methods exercises part 2\ex.7\bin\Debug\net6.0\ex.7.pdb
+D:\Programming\Homeworks\26.11 Methods exercises part 2\ex.7\obj\Debug\net6.0\ex.7.csproj.AssemblyReference.cache
+D:\Programming\Homeworks\26.11 Methods exercises part 2\ex.7\obj\Debug\net6.0\ex.7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Homeworks\26.11 Methods exercises part 2\ex.7\obj\Debug\net6.0\ex.7.AssemblyInfoInputs.cache
+D:\Programming\Homeworks\26.11 Methods exercises part 2\ex.7\obj\Debug\net6.0\ex.7.AssemblyInfo.cs
+D:\Programming\Homeworks\26.11 Methods exercises part 2\ex.7\obj\Debug\net6.0\ex.7.csproj.CoreCompileInputs.cache
+D:\Programming\Homeworks\26.11 Methods exercises part 2\ex.7\obj\Debug\net6.0\ex.7.dll
+D:\Programming\Homeworks\26.11 Methods exercises part 2\ex.7\obj\Debug\net6.0\ref\ex.7.dll
+D:\Programming\Homeworks\26.11 Methods exercises part 2\ex.7\obj\Debug\net6.0\ex.7.pdb
+D:\Programming\Homeworks\26.11 Methods exercises part 2\ex.7\obj\Debug\net6.0\ex.7.genruntimeconfig.cache

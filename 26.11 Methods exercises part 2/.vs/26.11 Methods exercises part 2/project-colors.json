@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "11d7c5b6-5b2c-4a7a-93fb-f078b9630b37": {
+      "ProjectGuid": "11d7c5b6-5b2c-4a7a-93fb-f078b9630b37",
+      "DisplayName": "26.11 Methods exercises part 2",
+      "ColorIndex": 0
+    },
+    "968702b1-cbd7-46a2-a4d4-33daa1528d67": {
+      "ProjectGuid": "968702b1-cbd7-46a2-a4d4-33daa1528d67",
+      "DisplayName": "ex.1",
+      "ColorIndex": 1
+    },
+    "3c41cefa-9b70-430e-8c6a-c10cbd035d0d": {
+      "ProjectGuid": "3c41cefa-9b70-430e-8c6a-c10cbd035d0d",
+      "DisplayName": "ex.2",
+      "ColorIndex": 2
+    },
+    "3c298e80-478f-48fc-a8c4-c79af0bca0ea": {
+      "ProjectGuid": "3c298e80-478f-48fc-a8c4-c79af0bca0ea",
+      "DisplayName": "ex.3",
+      "ColorIndex": 3
+    },
+    "c958b344-b7c5-4a63-8c54-be0e23f45736": {
+      "ProjectGuid": "c958b344-b7c5-4a63-8c54-be0e23f45736",
+      "DisplayName": "ex.4",
+      "ColorIndex": 4
+    },
+    "8ab721dc-eb9a-4602-9c61-dbf6befd4131": {
+      "ProjectGuid": "8ab721dc-eb9a-4602-9c61-dbf6befd4131",
+      "DisplayName": "ex.5",
+      "ColorIndex": 5
+    },
+    "782405bd-7f0a-466f-9f65-3b61af3cccec": {
+      "ProjectGuid": "782405bd-7f0a-466f-9f65-3b61af3cccec",
+      "DisplayName": "ex.6",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 7
+}
