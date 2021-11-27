@@ -1,9 +1,9 @@
-﻿double CalculateHours(int distance, int averageSpeed)
+﻿double CalculateHours(int averageSpeed, int distance)
 {
-    return (double)averageSpeed / distance;
+    return Math.Ceiling((double)averageSpeed / distance);
 }
 
-int distance = int.Parse(Console.ReadLine());
 int averageSpeed = int.Parse(Console.ReadLine());
+int distance = int.Parse(Console.ReadLine());
 
-Console.WriteLine($"{CalculateHours(distance, averageSpeed):F2}");
+Console.WriteLine($"{CalculateHours(averageSpeed, distance):F2}h");

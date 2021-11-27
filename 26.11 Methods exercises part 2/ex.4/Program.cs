@@ -1,13 +1,11 @@
 ﻿double Calculate(double lenght, double width, double height, double pricePerM2)
 {
-    height *= 4;
-    lenght *= 2;
-    width *= 2;
+    double ceilingArea = lenght * width;
+    
 
-    double ceiling = width * lenght;
-    double lenghtWallsPrice = (lenght * pricePerM2 + height * pricePerM2) * 2;
-    double widthWallsPrice = (width * pricePerM2 + height * pricePerM2) * 2;
-    double ceilingPrice = ceiling * pricePerM2;
+    double ceilingPrice = ceilingArea * pricePerM2;
+    double lenghtWallsPrice =  2 * ((lenght * height) * pricePerM2);
+    double widthWallsPrice = 2 * ((width * height) * pricePerM2);
 
     return lenghtWallsPrice + widthWallsPrice + ceilingPrice;
 }
@@ -19,3 +17,4 @@ double width = double.Parse(Console.ReadLine());
 double height = double.Parse(Console.ReadLine());
 
 Console.WriteLine(Calculate(lenght, width, height, pricePerM2));
+

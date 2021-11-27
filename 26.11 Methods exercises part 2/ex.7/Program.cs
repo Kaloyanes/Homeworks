@@ -1,9 +1,9 @@
-﻿double CalculatePeople(int peoplePerKm, double size)
+﻿double CalculatePeople(double peoplePerKm, double size)
 {
     return peoplePerKm * size;
 }
 
-int peoplePerKm = int.Parse(Console.ReadLine());
-double size = int.Parse(Console.ReadLine());
+double peoplePerKm = double.Parse(Console.ReadLine());
+double size = double.Parse(Console.ReadLine());
 
 Console.WriteLine(CalculatePeople(peoplePerKm, size));
