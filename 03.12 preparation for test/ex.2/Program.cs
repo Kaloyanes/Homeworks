@@ -1,10 +1,10 @@
 ﻿{
     double priceParty = double.Parse(Console.ReadLine());
-    double nail = double.Parse(Console.ReadLine()) * 0.6;
-    double nuts = double.Parse(Console.ReadLine()) * 7.2;
-    double screws = double.Parse(Console.ReadLine()) * 3.6;
-    double hammers = double.Parse(Console.ReadLine()) * 18.2;
-    double wrenches = double.Parse(Console.ReadLine()) * 14;
+    double nail = int.Parse(Console.ReadLine()) * 0.6;
+    double nuts = int.Parse(Console.ReadLine()) * 7.2;
+    double screws = int.Parse(Console.ReadLine()) * 3.6;
+    double hammers = int.Parse(Console.ReadLine()) * 18.2;
+    double wrenches = int.Parse(Console.ReadLine()) * 14;
 
     Console.WriteLine(Budget(priceParty, nail, nuts, screws, hammers, wrenches));
 }
