@@ -18,7 +18,7 @@ namespace Dungeons_and_Code_wizards
             if (!character.IsAlive)
                 throw new InvalidOperationException("Must be alive to perform this action!");
 
-            character._armor = character._baseArmor;
+            character.Armor = character.BaseArmor;
         }
     }
 }

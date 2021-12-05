@@ -7,7 +7,7 @@ namespace Dungeons_and_Code_wizards
     {
         private int _capacity;
         private int _load;
-        public List<Item> items;
+        public List<Item> items = new List<Item>();
 
         public Bag(int capacity)
         {
@@ -16,6 +16,7 @@ namespace Dungeons_and_Code_wizards
 
         public void AddItem(Item item)
         {
+            Console.WriteLine($"Adding {item._name} to bag");
             _load += item._weight;
 
             if (_load >= _capacity)
@@ -29,14 +30,17 @@ namespace Dungeons_and_Code_wizards
             if (items.Count == 0)
                 throw new InvalidOperationException("Bag is empty!");
 
-            bool found = false;
             foreach (var item in items)
             {
                 if (item._name == name)
+                {
+                    items.Remove(item);
+                    _load -= item._weight;
                     return item;
+                }
             }
 
-            throw new ArgumentException("No item with name {0} in bag!", name);
+            throw new ArgumentException($"No item with name: {name} in bag!");
         }
     }
 }

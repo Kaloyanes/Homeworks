@@ -6,7 +6,7 @@ namespace ex._9
     {
         static string GetChineseZodiac(int year)
         {
-            year = year % 12;
+            year %= 12;
 
             switch (year)
             {

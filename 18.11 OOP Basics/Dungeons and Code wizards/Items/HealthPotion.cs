@@ -2,24 +2,19 @@
 
 namespace Dungeons_and_Code_wizards
 {
-    public class HealthPotion
+    public class HealthPotion : Item
     {
-        public string _name { get; set; }
-        public int _weight { get; set; }
-
-        public HealthPotion()
-        {
-            _name = "Health Potion";
-            _weight = 5;
-        }
+        public string _name { get; }= "Health Potion";
+        public int _weight { get; } = 5;
 
         public void AffectCharacter(Character character)
         {
             if (!character.IsAlive)
                 throw new InvalidOperationException("Must be alive to perform this action!");
 
+            // TODO: Оправи това да може да heal-ва
 
-            character._health += 20f;
+            character.Health += 20;
         }
     }
 }

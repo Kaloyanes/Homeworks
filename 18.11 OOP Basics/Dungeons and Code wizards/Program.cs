@@ -6,10 +6,22 @@ namespace Dungeons_and_Code_wizards
     {
         static void Main(string[] args)
         {
-            var ch = new Character(true);
-            var hp = new HealthPotion();
+            var faction = new Faction();
+
             var bag = new Bag(100);
-            bag.AddItem(hp);
+            var ch = new Warrior("Kaloyan", faction);
+            Item hp = new HealthPotion();
+
+            ch.Bag.AddItem(hp);
+
+            Console.WriteLine(ch.Health);
+            ch.Health -= 20;
+
+            Console.WriteLine(ch.Health);
+            var item = ch.Bag.GetItem("Health Potion");
+            ch.UseItem(item);
+
+            Console.WriteLine(ch.Health);
         }
     }
 }

@@ -13,3 +13,4 @@ D:\Programming\Homeworks\25.11 Methods\ex.9\obj\Debug\net5.0\ex.9.dll
 D:\Programming\Homeworks\25.11 Methods\ex.9\obj\Debug\net5.0\ref\ex.9.dll
 D:\Programming\Homeworks\25.11 Methods\ex.9\obj\Debug\net5.0\ex.9.pdb
 D:\Programming\Homeworks\25.11 Methods\ex.9\obj\Debug\net5.0\ex.9.genruntimeconfig.cache
+D:\Programming\Homeworks\25.11 Methods\ex.9\obj\Debug\net5.0\ex.9.csproj.AssemblyReference.cache

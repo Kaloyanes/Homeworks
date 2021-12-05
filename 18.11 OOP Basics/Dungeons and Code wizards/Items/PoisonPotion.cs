@@ -19,9 +19,9 @@ namespace Dungeons_and_Code_wizards
                 throw new InvalidOperationException("Must be alive to perform this action!");
 
 
-            character._health -= 20f;
+            character.Health -= 20f;
 
-            if (character._health <= 0)
+            if (character.Health <= 0)
             {
                 character.IsAlive = false;
             }
