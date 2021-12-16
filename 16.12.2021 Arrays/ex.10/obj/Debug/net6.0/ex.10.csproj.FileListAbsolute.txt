@@ -1,0 +1,14 @@
+D:\Programming\Homeworks\16.12.2021 Arrays\ex.10\bin\Debug\net6.0\ex.10.exe
+D:\Programming\Homeworks\16.12.2021 Arrays\ex.10\bin\Debug\net6.0\ex.10.deps.json
+D:\Programming\Homeworks\16.12.2021 Arrays\ex.10\bin\Debug\net6.0\ex.10.runtimeconfig.json
+D:\Programming\Homeworks\16.12.2021 Arrays\ex.10\bin\Debug\net6.0\ex.10.dll
+D:\Programming\Homeworks\16.12.2021 Arrays\ex.10\bin\Debug\net6.0\ref\ex.10.dll
+D:\Programming\Homeworks\16.12.2021 Arrays\ex.10\bin\Debug\net6.0\ex.10.pdb
+D:\Programming\Homeworks\16.12.2021 Arrays\ex.10\obj\Debug\net6.0\ex.10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Homeworks\16.12.2021 Arrays\ex.10\obj\Debug\net6.0\ex.10.AssemblyInfoInputs.cache
+D:\Programming\Homeworks\16.12.2021 Arrays\ex.10\obj\Debug\net6.0\ex.10.AssemblyInfo.cs
+D:\Programming\Homeworks\16.12.2021 Arrays\ex.10\obj\Debug\net6.0\ex.10.csproj.CoreCompileInputs.cache
+D:\Programming\Homeworks\16.12.2021 Arrays\ex.10\obj\Debug\net6.0\ex.10.dll
+D:\Programming\Homeworks\16.12.2021 Arrays\ex.10\obj\Debug\net6.0\ref\ex.10.dll
+D:\Programming\Homeworks\16.12.2021 Arrays\ex.10\obj\Debug\net6.0\ex.10.pdb
+D:\Programming\Homeworks\16.12.2021 Arrays\ex.10\obj\Debug\net6.0\ex.10.genruntimeconfig.cache
