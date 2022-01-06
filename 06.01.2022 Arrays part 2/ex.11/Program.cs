@@ -1,0 +1,1 @@
+﻿int[] array = Console.ReadLine().Split(' ').Select(int.Parse).ToArray(); for (int i = array.Length - 1; i >= 0; i--) { Console.WriteLine(array[i]); }

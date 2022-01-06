@@ -1,8 +1,25 @@
 ﻿var input = Console.ReadLine().Trim().Split().Select(int.Parse).ToArray();
 
-int[] condesed = new int[input.Length];
+if (input.Length == 1)
+{
+    Console.WriteLine($"{input[0]} is already a condensed to a number");
+    return;
+}
 
-for (int i = 0; i < input.Length; i++)
-    condesed[i] = input[i] + input[i + 1];
+int[] condesned = new int[input.Length - 1];
 
-Console.WriteLine(condesed[0]);
+int i = 0;
+while (true)
+{
+    if (input.Length == 1)
+        break;
+
+    if (i + 1 == input.Length)
+        i = 0;
+
+    condesned[i] = input[i] + input[i + 1];
+    input = condesned;
+    i++;
+}
+
+Console.WriteLine(condesned[0]);
