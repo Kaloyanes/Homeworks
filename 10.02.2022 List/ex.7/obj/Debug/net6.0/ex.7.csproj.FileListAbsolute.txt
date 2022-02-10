@@ -1,0 +1,15 @@
+D:\Dev\Homeworks\10.02.2022 List\ex.7\bin\Debug\net6.0\ex.7.exe
+D:\Dev\Homeworks\10.02.2022 List\ex.7\bin\Debug\net6.0\ex.7.deps.json
+D:\Dev\Homeworks\10.02.2022 List\ex.7\bin\Debug\net6.0\ex.7.runtimeconfig.json
+D:\Dev\Homeworks\10.02.2022 List\ex.7\bin\Debug\net6.0\ex.7.dll
+D:\Dev\Homeworks\10.02.2022 List\ex.7\bin\Debug\net6.0\ref\ex.7.dll
+D:\Dev\Homeworks\10.02.2022 List\ex.7\bin\Debug\net6.0\ex.7.pdb
+D:\Dev\Homeworks\10.02.2022 List\ex.7\obj\Debug\net6.0\ex.7.csproj.AssemblyReference.cache
+D:\Dev\Homeworks\10.02.2022 List\ex.7\obj\Debug\net6.0\ex.7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Homeworks\10.02.2022 List\ex.7\obj\Debug\net6.0\ex.7.AssemblyInfoInputs.cache
+D:\Dev\Homeworks\10.02.2022 List\ex.7\obj\Debug\net6.0\ex.7.AssemblyInfo.cs
+D:\Dev\Homeworks\10.02.2022 List\ex.7\obj\Debug\net6.0\ex.7.csproj.CoreCompileInputs.cache
+D:\Dev\Homeworks\10.02.2022 List\ex.7\obj\Debug\net6.0\ex.7.dll
+D:\Dev\Homeworks\10.02.2022 List\ex.7\obj\Debug\net6.0\ref\ex.7.dll
+D:\Dev\Homeworks\10.02.2022 List\ex.7\obj\Debug\net6.0\ex.7.pdb
+D:\Dev\Homeworks\10.02.2022 List\ex.7\obj\Debug\net6.0\ex.7.genruntimeconfig.cache
