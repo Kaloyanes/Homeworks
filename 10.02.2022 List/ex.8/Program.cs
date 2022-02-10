@@ -1,23 +1,29 @@
 ﻿int ReverseNum(int num)
 {
-    string str = "";
+    var str = "";
     while (num != 0)
     {
-        str += num % 10; 
+        if (num % 10 == 0 && num / 10 != 0)
+        {
+            num /= 10;
+            continue;
+        }
+
+        str += num % 10;
         num /= 10;
     }
 
     return int.Parse(str);
 }
 
-List<int> list = Console.ReadLine().Trim().Split().Select(int.Parse).ToList();
+var list = Console.ReadLine().Trim().Split().Select(int.Parse).ToList();
 
-int sum = 0;
+var sum = 0;
 
-list.ForEach((x) =>
+list.ForEach(x =>
 {
-    int reverse = ReverseNum(x);
-    
+    var reverse = ReverseNum(x);
+
     sum += reverse;
 });
 
