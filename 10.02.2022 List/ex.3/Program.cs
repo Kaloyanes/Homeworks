@@ -1,3 +1,3 @@
-﻿List<string> names = Console.ReadLine().Trim().Split().ToList();
+﻿var names = Console.ReadLine().Trim().Split().ToList();
 
-Console.WriteLine(String.Join(';', names));
+Console.WriteLine(string.Join(';', names));
