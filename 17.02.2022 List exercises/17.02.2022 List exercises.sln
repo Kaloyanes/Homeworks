@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex.1", "ex.1\ex.1.csproj", "{E4672267-159E-4378-9BC8-BD5D2072E02E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex.2", "ex.2\ex.2.csproj", "{7EC93049-AA95-49DB-ABEF-469A2825961D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex.3", "ex.3\ex.3.csproj", "{1900298A-449C-4647-981C-C7C5FCBC6623}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex.4", "ex.4\ex.4.csproj", "{0C4C2ED0-E836-4E58-9126-4B401480F921}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex.5", "ex.5\ex.5.csproj", "{42632CE0-6C06-4BD6-9EC2-9166D37E7F1A}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBD82F2E-50B0-47F1-99C8-4032BBCFF133}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4672267-159E-4378-9BC8-BD5D2072E02E}.Build|Any CPU.ActiveCfg = Build|Any CPU
+		{E4672267-159E-4378-9BC8-BD5D2072E02E}.Build|Any CPU.Build.0 = Build|Any CPU
+		{7EC93049-AA95-49DB-ABEF-469A2825961D}.Build|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC93049-AA95-49DB-ABEF-469A2825961D}.Build|Any CPU.Build.0 = Debug|Any CPU
+		{1900298A-449C-4647-981C-C7C5FCBC6623}.Build|Any CPU.ActiveCfg = Debug|Any CPU
+		{1900298A-449C-4647-981C-C7C5FCBC6623}.Build|Any CPU.Build.0 = Debug|Any CPU
+		{0C4C2ED0-E836-4E58-9126-4B401480F921}.Build|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C4C2ED0-E836-4E58-9126-4B401480F921}.Build|Any CPU.Build.0 = Debug|Any CPU
+		{42632CE0-6C06-4BD6-9EC2-9166D37E7F1A}.Build|Any CPU.ActiveCfg = Debug|Any CPU
+		{42632CE0-6C06-4BD6-9EC2-9166D37E7F1A}.Build|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Build|Any CPU = Build|Any CPU
+	EndGlobalSection
+EndGlobal
