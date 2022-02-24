@@ -1,4 +1,4 @@
-﻿List<string> lists = Console.ReadLine()
+﻿var lists = Console.ReadLine()
     .Trim()
     .Split("|")
     .Select(s => s.Trim())

@@ -1,0 +1,15 @@
+D:\Dev\Homeworks\24.02.2022 List exercises 2\ex.3\bin\BUILD AND RUN\net6.0\ex.3.exe
+D:\Dev\Homeworks\24.02.2022 List exercises 2\ex.3\bin\BUILD AND RUN\net6.0\ex.3.deps.json
+D:\Dev\Homeworks\24.02.2022 List exercises 2\ex.3\bin\BUILD AND RUN\net6.0\ex.3.runtimeconfig.json
+D:\Dev\Homeworks\24.02.2022 List exercises 2\ex.3\bin\BUILD AND RUN\net6.0\ex.3.dll
+D:\Dev\Homeworks\24.02.2022 List exercises 2\ex.3\bin\BUILD AND RUN\net6.0\ref\ex.3.dll
+D:\Dev\Homeworks\24.02.2022 List exercises 2\ex.3\bin\BUILD AND RUN\net6.0\ex.3.pdb
+D:\Dev\Homeworks\24.02.2022 List exercises 2\ex.3\obj\BUILD AND RUN\net6.0\ex.3.csproj.AssemblyReference.cache
+D:\Dev\Homeworks\24.02.2022 List exercises 2\ex.3\obj\BUILD AND RUN\net6.0\ex.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Homeworks\24.02.2022 List exercises 2\ex.3\obj\BUILD AND RUN\net6.0\ex.3.AssemblyInfoInputs.cache
+D:\Dev\Homeworks\24.02.2022 List exercises 2\ex.3\obj\BUILD AND RUN\net6.0\ex.3.AssemblyInfo.cs
+D:\Dev\Homeworks\24.02.2022 List exercises 2\ex.3\obj\BUILD AND RUN\net6.0\ex.3.csproj.CoreCompileInputs.cache
+D:\Dev\Homeworks\24.02.2022 List exercises 2\ex.3\obj\BUILD AND RUN\net6.0\ex.3.dll
+D:\Dev\Homeworks\24.02.2022 List exercises 2\ex.3\obj\BUILD AND RUN\net6.0\ref\ex.3.dll
+D:\Dev\Homeworks\24.02.2022 List exercises 2\ex.3\obj\BUILD AND RUN\net6.0\ex.3.pdb
+D:\Dev\Homeworks\24.02.2022 List exercises 2\ex.3\obj\BUILD AND RUN\net6.0\ex.3.genruntimeconfig.cache

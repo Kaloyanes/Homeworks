@@ -1,0 +1,15 @@
+D:\Dev\Homeworks\17.02.2022 List exercises\ex.6\bin\Debug\net6.0\ex.6.exe
+D:\Dev\Homeworks\17.02.2022 List exercises\ex.6\bin\Debug\net6.0\ex.6.deps.json
+D:\Dev\Homeworks\17.02.2022 List exercises\ex.6\bin\Debug\net6.0\ex.6.runtimeconfig.json
+D:\Dev\Homeworks\17.02.2022 List exercises\ex.6\bin\Debug\net6.0\ex.6.dll
+D:\Dev\Homeworks\17.02.2022 List exercises\ex.6\bin\Debug\net6.0\ref\ex.6.dll
+D:\Dev\Homeworks\17.02.2022 List exercises\ex.6\bin\Debug\net6.0\ex.6.pdb
+D:\Dev\Homeworks\17.02.2022 List exercises\ex.6\obj\Debug\net6.0\ex.6.csproj.AssemblyReference.cache
+D:\Dev\Homeworks\17.02.2022 List exercises\ex.6\obj\Debug\net6.0\ex.6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Homeworks\17.02.2022 List exercises\ex.6\obj\Debug\net6.0\ex.6.AssemblyInfoInputs.cache
+D:\Dev\Homeworks\17.02.2022 List exercises\ex.6\obj\Debug\net6.0\ex.6.AssemblyInfo.cs
+D:\Dev\Homeworks\17.02.2022 List exercises\ex.6\obj\Debug\net6.0\ex.6.csproj.CoreCompileInputs.cache
+D:\Dev\Homeworks\17.02.2022 List exercises\ex.6\obj\Debug\net6.0\ex.6.dll
+D:\Dev\Homeworks\17.02.2022 List exercises\ex.6\obj\Debug\net6.0\ref\ex.6.dll
+D:\Dev\Homeworks\17.02.2022 List exercises\ex.6\obj\Debug\net6.0\ex.6.pdb
+D:\Dev\Homeworks\17.02.2022 List exercises\ex.6\obj\Debug\net6.0\ex.6.genruntimeconfig.cache

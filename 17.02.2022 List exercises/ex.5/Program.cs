@@ -1,4 +1,4 @@
-﻿List<int> nums = Console.ReadLine()
+﻿var nums = Console.ReadLine()
     .Trim()
     .Split()
     .Select(int.Parse)
@@ -6,7 +6,7 @@
 
 nums.Sort();
 
-for (int i = 0; i < nums.Count - 1; i++)
+for (var i = 0; i < nums.Count - 1; i++)
     Console.Write(nums[i] + " <= ");
 
 Console.WriteLine(nums[nums.Count - 1]);
