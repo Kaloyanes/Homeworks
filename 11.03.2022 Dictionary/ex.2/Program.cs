@@ -30,7 +30,7 @@ while (true)
 {
     // Взимаме командите и аргументите
     // Използваме Array понеже използва по-малко ресурси от List-a
-    string[] command = Console.ReadLine().Trim().Split().ToArray();
+    string[] command = Console.ReadLine().Trim().Split();
 
     // Добре де признавам, че в случая switch е по-добре
     switch (command[0].ToLower())

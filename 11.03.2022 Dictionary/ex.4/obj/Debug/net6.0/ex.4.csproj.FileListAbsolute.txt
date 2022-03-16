@@ -1,0 +1,15 @@
+D:\Dev\Homeworks\11.03.2022 Dictionary\ex.4\bin\Debug\net6.0\ex.4.exe
+D:\Dev\Homeworks\11.03.2022 Dictionary\ex.4\bin\Debug\net6.0\ex.4.deps.json
+D:\Dev\Homeworks\11.03.2022 Dictionary\ex.4\bin\Debug\net6.0\ex.4.runtimeconfig.json
+D:\Dev\Homeworks\11.03.2022 Dictionary\ex.4\bin\Debug\net6.0\ex.4.dll
+D:\Dev\Homeworks\11.03.2022 Dictionary\ex.4\bin\Debug\net6.0\ref\ex.4.dll
+D:\Dev\Homeworks\11.03.2022 Dictionary\ex.4\bin\Debug\net6.0\ex.4.pdb
+D:\Dev\Homeworks\11.03.2022 Dictionary\ex.4\obj\Debug\net6.0\ex.4.csproj.AssemblyReference.cache
+D:\Dev\Homeworks\11.03.2022 Dictionary\ex.4\obj\Debug\net6.0\ex.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Homeworks\11.03.2022 Dictionary\ex.4\obj\Debug\net6.0\ex.4.AssemblyInfoInputs.cache
+D:\Dev\Homeworks\11.03.2022 Dictionary\ex.4\obj\Debug\net6.0\ex.4.AssemblyInfo.cs
+D:\Dev\Homeworks\11.03.2022 Dictionary\ex.4\obj\Debug\net6.0\ex.4.csproj.CoreCompileInputs.cache
+D:\Dev\Homeworks\11.03.2022 Dictionary\ex.4\obj\Debug\net6.0\ex.4.dll
+D:\Dev\Homeworks\11.03.2022 Dictionary\ex.4\obj\Debug\net6.0\ref\ex.4.dll
+D:\Dev\Homeworks\11.03.2022 Dictionary\ex.4\obj\Debug\net6.0\ex.4.pdb
+D:\Dev\Homeworks\11.03.2022 Dictionary\ex.4\obj\Debug\net6.0\ex.4.genruntimeconfig.cache
