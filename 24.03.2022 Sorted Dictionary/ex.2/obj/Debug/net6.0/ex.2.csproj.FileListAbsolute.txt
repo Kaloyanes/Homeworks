@@ -1,0 +1,15 @@
+D:\Dev\Homeworks\24.03.2022 Sorted Dictionary\ex.2\bin\Debug\net6.0\ex.2.exe
+D:\Dev\Homeworks\24.03.2022 Sorted Dictionary\ex.2\bin\Debug\net6.0\ex.2.deps.json
+D:\Dev\Homeworks\24.03.2022 Sorted Dictionary\ex.2\bin\Debug\net6.0\ex.2.runtimeconfig.json
+D:\Dev\Homeworks\24.03.2022 Sorted Dictionary\ex.2\bin\Debug\net6.0\ex.2.dll
+D:\Dev\Homeworks\24.03.2022 Sorted Dictionary\ex.2\bin\Debug\net6.0\ref\ex.2.dll
+D:\Dev\Homeworks\24.03.2022 Sorted Dictionary\ex.2\bin\Debug\net6.0\ex.2.pdb
+D:\Dev\Homeworks\24.03.2022 Sorted Dictionary\ex.2\obj\Debug\net6.0\ex.2.csproj.AssemblyReference.cache
+D:\Dev\Homeworks\24.03.2022 Sorted Dictionary\ex.2\obj\Debug\net6.0\ex.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Homeworks\24.03.2022 Sorted Dictionary\ex.2\obj\Debug\net6.0\ex.2.AssemblyInfoInputs.cache
+D:\Dev\Homeworks\24.03.2022 Sorted Dictionary\ex.2\obj\Debug\net6.0\ex.2.AssemblyInfo.cs
+D:\Dev\Homeworks\24.03.2022 Sorted Dictionary\ex.2\obj\Debug\net6.0\ex.2.csproj.CoreCompileInputs.cache
+D:\Dev\Homeworks\24.03.2022 Sorted Dictionary\ex.2\obj\Debug\net6.0\ex.2.dll
+D:\Dev\Homeworks\24.03.2022 Sorted Dictionary\ex.2\obj\Debug\net6.0\ref\ex.2.dll
+D:\Dev\Homeworks\24.03.2022 Sorted Dictionary\ex.2\obj\Debug\net6.0\ex.2.pdb
+D:\Dev\Homeworks\24.03.2022 Sorted Dictionary\ex.2\obj\Debug\net6.0\ex.2.genruntimeconfig.cache
