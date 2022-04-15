@@ -1,0 +1,15 @@
+C:\Dev\Homeworks\15.04.2022 String\ex.8\bin\Debug\net6.0\ex.8.exe
+C:\Dev\Homeworks\15.04.2022 String\ex.8\bin\Debug\net6.0\ex.8.deps.json
+C:\Dev\Homeworks\15.04.2022 String\ex.8\bin\Debug\net6.0\ex.8.runtimeconfig.json
+C:\Dev\Homeworks\15.04.2022 String\ex.8\bin\Debug\net6.0\ex.8.dll
+C:\Dev\Homeworks\15.04.2022 String\ex.8\bin\Debug\net6.0\ex.8.pdb
+C:\Dev\Homeworks\15.04.2022 String\ex.8\obj\Debug\net6.0\ex.8.csproj.AssemblyReference.cache
+C:\Dev\Homeworks\15.04.2022 String\ex.8\obj\Debug\net6.0\ex.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Homeworks\15.04.2022 String\ex.8\obj\Debug\net6.0\ex.8.AssemblyInfoInputs.cache
+C:\Dev\Homeworks\15.04.2022 String\ex.8\obj\Debug\net6.0\ex.8.AssemblyInfo.cs
+C:\Dev\Homeworks\15.04.2022 String\ex.8\obj\Debug\net6.0\ex.8.csproj.CoreCompileInputs.cache
+C:\Dev\Homeworks\15.04.2022 String\ex.8\obj\Debug\net6.0\ex.8.dll
+C:\Dev\Homeworks\15.04.2022 String\ex.8\obj\Debug\net6.0\refint\ex.8.dll
+C:\Dev\Homeworks\15.04.2022 String\ex.8\obj\Debug\net6.0\ex.8.pdb
+C:\Dev\Homeworks\15.04.2022 String\ex.8\obj\Debug\net6.0\ex.8.genruntimeconfig.cache
+C:\Dev\Homeworks\15.04.2022 String\ex.8\obj\Debug\net6.0\ref\ex.8.dll
