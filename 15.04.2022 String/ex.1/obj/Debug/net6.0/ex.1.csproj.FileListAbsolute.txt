@@ -1,0 +1,15 @@
+C:\Dev\C#\15.04.2022 String\ex.1\bin\Debug\net6.0\ex.1.exe
+C:\Dev\C#\15.04.2022 String\ex.1\bin\Debug\net6.0\ex.1.deps.json
+C:\Dev\C#\15.04.2022 String\ex.1\bin\Debug\net6.0\ex.1.runtimeconfig.json
+C:\Dev\C#\15.04.2022 String\ex.1\bin\Debug\net6.0\ex.1.dll
+C:\Dev\C#\15.04.2022 String\ex.1\bin\Debug\net6.0\ex.1.pdb
+C:\Dev\C#\15.04.2022 String\ex.1\obj\Debug\net6.0\ex.1.csproj.AssemblyReference.cache
+C:\Dev\C#\15.04.2022 String\ex.1\obj\Debug\net6.0\ex.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C#\15.04.2022 String\ex.1\obj\Debug\net6.0\ex.1.AssemblyInfoInputs.cache
+C:\Dev\C#\15.04.2022 String\ex.1\obj\Debug\net6.0\ex.1.AssemblyInfo.cs
+C:\Dev\C#\15.04.2022 String\ex.1\obj\Debug\net6.0\ex.1.csproj.CoreCompileInputs.cache
+C:\Dev\C#\15.04.2022 String\ex.1\obj\Debug\net6.0\ex.1.dll
+C:\Dev\C#\15.04.2022 String\ex.1\obj\Debug\net6.0\refint\ex.1.dll
+C:\Dev\C#\15.04.2022 String\ex.1\obj\Debug\net6.0\ex.1.pdb
+C:\Dev\C#\15.04.2022 String\ex.1\obj\Debug\net6.0\ex.1.genruntimeconfig.cache
+C:\Dev\C#\15.04.2022 String\ex.1\obj\Debug\net6.0\ref\ex.1.dll
