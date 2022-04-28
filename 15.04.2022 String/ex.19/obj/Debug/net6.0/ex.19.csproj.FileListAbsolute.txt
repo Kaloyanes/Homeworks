@@ -1,0 +1,15 @@
+C:\Dev\Homeworks\15.04.2022 String\ex.19\bin\Debug\net6.0\ex.19.exe
+C:\Dev\Homeworks\15.04.2022 String\ex.19\bin\Debug\net6.0\ex.19.deps.json
+C:\Dev\Homeworks\15.04.2022 String\ex.19\bin\Debug\net6.0\ex.19.runtimeconfig.json
+C:\Dev\Homeworks\15.04.2022 String\ex.19\bin\Debug\net6.0\ex.19.dll
+C:\Dev\Homeworks\15.04.2022 String\ex.19\bin\Debug\net6.0\ex.19.pdb
+C:\Dev\Homeworks\15.04.2022 String\ex.19\obj\Debug\net6.0\ex.19.csproj.AssemblyReference.cache
+C:\Dev\Homeworks\15.04.2022 String\ex.19\obj\Debug\net6.0\ex.19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Homeworks\15.04.2022 String\ex.19\obj\Debug\net6.0\ex.19.AssemblyInfoInputs.cache
+C:\Dev\Homeworks\15.04.2022 String\ex.19\obj\Debug\net6.0\ex.19.AssemblyInfo.cs
+C:\Dev\Homeworks\15.04.2022 String\ex.19\obj\Debug\net6.0\ex.19.csproj.CoreCompileInputs.cache
+C:\Dev\Homeworks\15.04.2022 String\ex.19\obj\Debug\net6.0\ex.19.dll
+C:\Dev\Homeworks\15.04.2022 String\ex.19\obj\Debug\net6.0\refint\ex.19.dll
+C:\Dev\Homeworks\15.04.2022 String\ex.19\obj\Debug\net6.0\ex.19.pdb
+C:\Dev\Homeworks\15.04.2022 String\ex.19\obj\Debug\net6.0\ex.19.genruntimeconfig.cache
+C:\Dev\Homeworks\15.04.2022 String\ex.19\obj\Debug\net6.0\ref\ex.19.dll
