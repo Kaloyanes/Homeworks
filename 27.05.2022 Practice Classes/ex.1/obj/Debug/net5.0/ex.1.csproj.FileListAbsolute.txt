@@ -1,0 +1,16 @@
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.1\bin\Debug\net5.0\ex.1.exe
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.1\bin\Debug\net5.0\ex.1.deps.json
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.1\bin\Debug\net5.0\ex.1.runtimeconfig.json
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.1\bin\Debug\net5.0\ex.1.runtimeconfig.dev.json
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.1\bin\Debug\net5.0\ex.1.dll
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.1\bin\Debug\net5.0\ex.1.pdb
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.1\obj\Debug\net5.0\ex.1.csproj.AssemblyReference.cache
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.1\obj\Debug\net5.0\ex.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.1\obj\Debug\net5.0\ex.1.AssemblyInfoInputs.cache
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.1\obj\Debug\net5.0\ex.1.AssemblyInfo.cs
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.1\obj\Debug\net5.0\ex.1.csproj.CoreCompileInputs.cache
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.1\obj\Debug\net5.0\ex.1.dll
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.1\obj\Debug\net5.0\refint\ex.1.dll
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.1\obj\Debug\net5.0\ex.1.pdb
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.1\obj\Debug\net5.0\ex.1.genruntimeconfig.cache
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.1\obj\Debug\net5.0\ref\ex.1.dll

@@ -1,0 +1,15 @@
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.9\bin\Debug\net6.0\ex.9.exe
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.9\bin\Debug\net6.0\ex.9.deps.json
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.9\bin\Debug\net6.0\ex.9.runtimeconfig.json
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.9\bin\Debug\net6.0\ex.9.dll
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.9\bin\Debug\net6.0\ex.9.pdb
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.9\obj\Debug\net6.0\ex.9.csproj.AssemblyReference.cache
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.9\obj\Debug\net6.0\ex.9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.9\obj\Debug\net6.0\ex.9.AssemblyInfoInputs.cache
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.9\obj\Debug\net6.0\ex.9.AssemblyInfo.cs
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.9\obj\Debug\net6.0\ex.9.csproj.CoreCompileInputs.cache
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.9\obj\Debug\net6.0\ex.9.dll
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.9\obj\Debug\net6.0\refint\ex.9.dll
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.9\obj\Debug\net6.0\ex.9.pdb
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.9\obj\Debug\net6.0\ex.9.genruntimeconfig.cache
+C:\Dev\Homeworks\27.05.2022 Practice Classes\ex.9\obj\Debug\net6.0\ref\ex.9.dll
